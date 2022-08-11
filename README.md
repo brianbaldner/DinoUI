@@ -13,7 +13,7 @@ using DinoUI;
 
 var config = new MainConfig()
     {
-        Title = "Dino  UI",
+        Title = "DinoUI",
         Buttons = button,
         ForegroundColor = ConsoleColor.White,
         BackgroundColor = ConsoleColor.DarkRed
