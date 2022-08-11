@@ -12,6 +12,8 @@ Install to your project with [Nuget](https://www.nuget.org/packages/DinoUI)
 
 ## Usage
 
+View the full example [in the test program.](DinoUI.Test/Program.cs)
+
 ```csharp
 using DinoUI;
 
