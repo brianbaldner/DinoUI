@@ -1,4 +1,6 @@
 ﻿using DinoUI;
+using System.Diagnostics;
+
 static void Main()
 {
     ButtonInfo[] button = {new ButtonInfo()

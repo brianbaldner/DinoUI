@@ -6,7 +6,18 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>brianbaldner</Authors>
+    <PackageProjectUrl>https://github.com/brianbaldner/DinoUI</PackageProjectUrl>
+    <Description>DinoUI is the easiest way to make a UI for your .NET console project.</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/brianbaldner/DinoUI</RepositoryUrl>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Figgle" Version="0.4.0" />
