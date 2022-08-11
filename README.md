@@ -1,6 +1,7 @@
 # DinoUI
 ![Nuget](https://img.shields.io/nuget/v/DinoUI)![Nuget](https://img.shields.io/nuget/dt/DinoUI)
-DinoUI is an easy way to make a UI for your .NET console project.
+
+DinoUI is the easiest way to make a UI for your .NET console project.
 
 ## Installation
 
