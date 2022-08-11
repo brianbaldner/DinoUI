@@ -45,7 +45,7 @@ jobs:
       run: dotnet nuget push ${{ env.PACKAGE_OUTPUT_DIRECTORY }}\*.nupkg -k ${{ secrets.NUGET_AUTH_TOKEN }} -s ${{ env.NUGET_SOURCE_URL }} --skip-duplicate
 
     - name: 'Push package to github'
-      run: dotnet nuget push ${{ env.PACKAGE_OUTPUT_DIRECTORY }}\*.nupkg -k ${{ secrets.NUGET_AUTH_TOKEN }} --api-key ${{ secrets.PAT }} --source "github" --skip-duplicate
+      run: dotnet nuget push ${{ env.PACKAGE_OUTPUT_DIRECTORY }}\*.nupkg --api-key ${{ secrets.PAT }} --source "github" --skip-duplicate
 
     - name: 'Add to release'
       continue-on-error: true
