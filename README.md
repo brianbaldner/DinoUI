@@ -1,5 +1,5 @@
 # DinoUI
-![Nuget](https://img.shields.io/nuget/v/DinoUI)![Nuget](https://img.shields.io/nuget/dt/DinoUI)
+[![Deploy to NuGet](https://github.com/brianbaldner/DinoUI/actions/workflows/main.yml/badge.svg)](https://github.com/brianbaldner/DinoUI/actions/workflows/main.yml) ![Nuget](https://img.shields.io/nuget/v/DinoUI) ![Nuget](https://img.shields.io/nuget/dt/DinoUI)
 
 DinoUI is the easiest way to make a UI for your .NET console project.
 
