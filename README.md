@@ -1,5 +1,5 @@
 # DinoUI
-[![Deploy to NuGet](https://github.com/brianbaldner/DinoUI/actions/workflows/main.yml/badge.svg?style=for-the-badge)](https://github.com/brianbaldner/DinoUI/actions/workflows/main.yml) ![Nuget](https://img.shields.io/nuget/v/DinoUI?style=for-the-badge) ![Nuget](https://img.shields.io/nuget/dt/DinoUI?style=for-the-badge)![GitHub](https://img.shields.io/github/license/BrianBaldner/DinoUI?style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/BrianBaldner/DinoUI/Deploy%20to%20NuGet?style=for-the-badge) ![Nuget](https://img.shields.io/nuget/v/DinoUI?style=for-the-badge) ![Nuget](https://img.shields.io/nuget/dt/DinoUI?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/BrianBaldner/DinoUI?style=for-the-badge)
 <p align="center">
 <img src="https://raw.githubusercontent.com/brianbaldner/DinoUI/master/testexe.jpg" width="600" />
     </p>
