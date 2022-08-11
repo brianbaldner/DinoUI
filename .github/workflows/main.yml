@@ -1,6 +1,7 @@
 name: "Deploy to NuGet"
 
 on:
+  workflow_call:
   push:
     tags:
     - 'v*'
